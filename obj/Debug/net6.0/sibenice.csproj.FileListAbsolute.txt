@@ -1,0 +1,15 @@
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\obj\Debug\net6.0\sibenice.csproj.AssemblyReference.cache
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\obj\Debug\net6.0\sibenice.GeneratedMSBuildEditorConfig.editorconfig
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\obj\Debug\net6.0\sibenice.AssemblyInfoInputs.cache
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\obj\Debug\net6.0\sibenice.AssemblyInfo.cs
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\obj\Debug\net6.0\sibenice.csproj.CoreCompileInputs.cache
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\bin\Debug\net6.0\sibenice.exe
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\bin\Debug\net6.0\sibenice.deps.json
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\bin\Debug\net6.0\sibenice.runtimeconfig.json
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\bin\Debug\net6.0\sibenice.dll
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\bin\Debug\net6.0\sibenice.pdb
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\obj\Debug\net6.0\sibenice.dll
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\obj\Debug\net6.0\refint\sibenice.dll
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\obj\Debug\net6.0\sibenice.pdb
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\obj\Debug\net6.0\sibenice.genruntimeconfig.cache
+D:\ŠKOLA\DRUHÁK\PRO\projekt_hra_sibenice\sibenice\sibenice\obj\Debug\net6.0\ref\sibenice.dll
